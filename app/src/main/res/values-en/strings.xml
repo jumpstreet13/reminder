@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helper</string>
+    <string name="MainMenu">Main menu</string>
+    <string name="StringInTask">Write the task and push OK</string>
+    <string name="TaskMenu">Creating the task</string>
+    <string name="TasksList">Task\'s list</string>
+    <string name="back">Back</string>
+    <string name="confirm">OK</string>
+    <string name="done">Done</string>
+    <string name="mainNotification">You did not write name of list with tasks</string>
+    <string name="nameOfTask">Write the name of deal and push OK, if you have no more deals push Done</string>
+    <string name="progress">Look progress</string>
+    <string name="task">Create the new task list</string>
+    <string name="taskNotification">You did not write the name of task</string>
+    <string name="taskNotification2">You did not write at least one task</string>
+    <string name="write">Write name of task list</string>
+    <string name="writeNameofList">Write name of list</string>
+</resources>

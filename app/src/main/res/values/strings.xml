@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Планировщик</string>
+    <string name="task">Создать новый список задач</string>
+    <string name="progress">Проследить прогресс</string>
+    <string name="nameOfTask">Введите название дела и нажмите OK, если дел больше нет нажмите другую кнопку.</string>
+    <string name="confirm">OK</string>
+    <string name="done">Больше дел нет</string>
+    <string name="write">Введите название списка задач</string>
+    <string name="mainNotification">Вы не ввели название списка задач!</string>
+    <string name="taskNotification">Вы не ввели название задачи!</string>
+    <string name="taskNotification2">Вы не ввели ни одной задачи!</string>
+    <string name="back">Назад</string>
+    <string name="writeNameofList">Введите название списка</string>
+    <string name="MainMenu">Главное меню</string>
+    <string name="TaskMenu">Создание задачи</string>
+    <string name="TasksList">Список задач</string>
+    <string name="StringInTask">Введите задачу и нажмите ОК</string>
+</resources>
